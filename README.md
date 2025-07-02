@@ -21,8 +21,6 @@ worth mentioning.
 * [SonarSource .NET Analyzers](https://github.com/SonarSource/sonar-dotnet)
 
 ## Stats
-
-[![Ranks](https://github-readme-stats.vercel.app/api?rank_icon=percentile&username=Corniel&count_private=true&theme=dark&include_all_commits=true&show_icons=true)]
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Corniel&line_height=39&v&custom_title=Statistics&show_icons=true&include_all_commits=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark#gh-light-mode-only)](https://github.com/Corniel#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corniel&layout=donut-vertical&langs_count=500&size_weight=0.5&count_weight=0.5&exclude_repo=Gw2InteractiveMap&theme=github_dark#gh-dark-mode-only)](https://github.com/Corniel#gh-dark-mode-only)
 

@@ -2,9 +2,6 @@
 I'm an intrinsic motivated software engineer that has been out there since the
 early 2000's.
 
-* [LinkedIn](https://linkedin.com/in/corniel-nobel)
-* [Sessionize](https://sessionize.com/corniel-nobel)
-
 ## Contributions
 Besides some (pet) projects that I work on for fun and/or to learn from, I
 also contribute to the Open Source community. The repositories below are some

@@ -8,7 +8,7 @@ worth mentioning.
 * [.NET Project File Analyzers](https://github.com/dotnet-project-file-analyzers)
 
 ### Co-maintainer
-* [Buildalyzer](https://github.com/phmonte/Buildalyzer)
+* [Buildalyzer](https://github.com/Buildalyzer/Buildalyzer)
 
 ### Contributor
 * [SonarSource .NET Analyzers](https://github.com/SonarSource/sonar-dotnet)
